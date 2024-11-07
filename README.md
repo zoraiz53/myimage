@@ -1,2 +1,2 @@
-# myimage
+# myrepo
 Testing
